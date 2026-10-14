@@ -1,0 +1,6 @@
+@Labo5_LeticiaMaldonado_HostAddress = http://localhost:5007
+
+GET {{Labo5_LeticiaMaldonado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
